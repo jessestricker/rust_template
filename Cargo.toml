@@ -1,0 +1,12 @@
+[package]
+name = "rust_template"
+version = "0.1.0"
+authors = ["Jesse Stricker"]
+edition = "2021"
+rust-version = "1.56"
+description = "A template for Rust projects."
+repository = "https://github.com/jessestricker/rust_template"
+license = "Apache-2.0"
+# keywords = ["","","","",""]
+# categories: https://crates.io/category_slugs
+publish = false
