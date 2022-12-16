@@ -3,6 +3,7 @@ name = "rust_template"
 version = "0.1.0"
 authors = ["Jesse Stricker"]
 edition = "2021"
+# sync with .github/workflows/checks.yml
 rust-version = "1.56"
 description = "A template for Rust projects."
 repository = "https://github.com/jessestricker/rust_template"
